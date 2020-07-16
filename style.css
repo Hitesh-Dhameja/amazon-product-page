@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:500);
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.image{
+    background-image: url('blue.PNG');
+    background-size: 330px 400px;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 500px;
+    margin-top: 4rem;
+    text-align: sw;
+}
+.image h5{
+    padding-top: 11.5rem;
+    padding-left: 5.5rem;
+    font-size: 30px;
+    color: cornsilk;
+    font-weight: 600;
+    visibility:hidden;
+}
+#inside{
+    width: 100px;
+    height: 100px;
+    margin-left: 7rem;
+    margin-top: -5rem;
+    visibility:hidden;
+}
+#inside1{
+    margin-left: 9rem;
+    margin-top: -1rem;
+    color: cornsilk;
+    font-size: 30px;
+    font-weight: 600;
+    visibility:hidden;
+}
+.topbar{
+    background-color: black;
+}
+.photo{
+    width: 160px;
+    height:55px;
+    margin-left: 33rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.descripton{
+    padding-left: 20rem;
+    margin-top: -47rem;
+}
+.descripton2{
+    margin-left: 20rem;
+    padding-top: 1rem;
+}
+.descripton3{
+    margin-left: 20rem;
+    padding-top: 1rem;
+}
+.color1{
+    margin-left: 24rem;
+    width:4rem;
+    height: 3rem;
+    background-color: #565681;
+    border-radius: 5px;
+}
+.color2{
+    margin-left: 1rem;
+    margin-top: -3rem;
+    width:4rem;
+    height: 3rem;
+    background-color: #8a5362;
+    border-radius: 5px;
+}
+.color3{
+    margin-left: 1rem;
+    margin-top: -3rem;
+    width:4rem;
+    height: 3rem;
+    background-color: #23211f;
+    border-radius: 5px;
+}
+.color4{
+    margin-left: 1rem;
+    margin-top: -3rem;
+    width:4rem;
+    height: 3rem;
+    background-color: #ca3d22;
+    border-radius: 5px;
+}
+.color5{
+    margin-left: 1rem;
+    margin-top: -3rem;
+    width:4rem;
+    height: 3rem;
+    background-color: #e9c7be;
+    border-radius: 5px;
+}
+.new{
+    margin-left: 24rem;
+}
+.new #heart{
+    margin-left: 1rem;
+}
+.buy{
+    margin-left: 25rem;
+    margin-top: 1rem;
+    width: 8rem;
+    height: 3rem;
+}
+.foot{
+    margin-left: 54rem;
+    margin-top: 42px;
+}
+
